@@ -1,0 +1,64 @@
+﻿  Carrom.cpp
+D:\Github\Carrom-Board\Carrom-Board\DEngine.h(121,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,54): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,30): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,24): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(56,57): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(56,39): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(62,57): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(62,39): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(68,57): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(68,39): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(74,57): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(74,39): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(97,32): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(97,29): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(104,33): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(104,30): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(113,33): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(113,30): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(120,34): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(120,31): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(132,32): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(132,29): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(138,33): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(138,30): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(147,33): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(147,30): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(154,34): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(154,31): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(172,43): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(172,27): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(173,55): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(173,38): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Carrom.cpp(173,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Main.cpp
+D:\Github\Carrom-Board\Carrom-Board\DEngine.h(121,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,54): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,30): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,24): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Mouse.cpp
+D:\Github\Carrom-Board\Carrom-Board\DEngine.h(121,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,54): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,30): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,24): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Piece.cpp
+D:\Github\Carrom-Board\Carrom-Board\DEngine.h(121,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,54): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,30): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,31): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Board.h(20,24): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.cpp(61,51): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.cpp(80,42): warning C4244: 'argument': conversion from 'GLdouble' to 'float', possible loss of data
+  Striker.cpp
+D:\Github\Carrom-Board\Carrom-Board\DEngine.h(121,16): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,54): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Piece.h(69,30): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Striker.cpp(6,56): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+D:\Github\Carrom-Board\Carrom-Board\Striker.cpp(6,53): warning C4244: 'argument': conversion from 'GLdouble' to 'int', possible loss of data
+  Generating Code...
+  Carrom-Board.vcxproj -> D:\Github\Carrom-Board\Debug\Carrom-Board.exe
